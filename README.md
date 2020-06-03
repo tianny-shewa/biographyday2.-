@@ -1,3 +1,3 @@
 # biographyday2.-
 Styled biography
-https://maxicodes.github.io/biographyday2
+https://maxicodes.github.io/biographyday2.
